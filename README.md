@@ -7,7 +7,7 @@
 </p>
 
 <p>
-Software Development Engineering student with experience as a Full Stack intern. I'm passionate about backend development, computer security, and machine learning. I'm always learning new technologies to create innovative software solutions.
+Software Development Engineering with experience as a Full Stack intern. I'm passionate about backend development, computer security, and machine learning. I'm always learning new technologies to create innovative software solutions.
 </p>
 
 
@@ -53,6 +53,6 @@ Software Development Engineering student with experience as a Full Stack intern.
 
 ### 🔭 I'm currently...
 
-- Studying **Software Development Engineering**.
+- I am **Software Development Engineering**.
 - Looking for new challenges to apply my skills in development and machine learning.
 - Continuously working to improve my English language skills
